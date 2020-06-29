@@ -4,11 +4,12 @@
 </template>
 
 <script>
+
 export default {
   name: 'App',
 }
 </script>
 
-<style>
-
+<style lang="scss">
+@import '../src/assets/css/styles.scss';
 </style>
